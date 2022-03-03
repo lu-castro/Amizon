@@ -5,7 +5,7 @@ import List from './List'
 function App() {
   return (
     <div className="app">
-      <Menu title="amozon"/>
+      <Menu title="amizon"/>
       <List />
     </div>
   );

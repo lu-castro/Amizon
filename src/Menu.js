@@ -1,5 +1,6 @@
 import React from "react";
 import Search from "./Search";
+import './Menu.css'
 
 function Menu(props) {
     return(
@@ -14,7 +15,7 @@ function Menu(props) {
                 </div>
 
                 <div className="actions">
-
+                    <button className="button btn-blue">Añadir nuevo libro</button>
                 </div>
 
             </div>

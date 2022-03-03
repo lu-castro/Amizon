@@ -1,0 +1,15 @@
+.container {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(199, 142, 56);
+}
+
+.subcontainer {
+    height: auto;
+    width: 30%;
+    
+}
+
+.search {
+    border-style: dotted;
+}
